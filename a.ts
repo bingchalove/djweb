@@ -1,4 +1,4 @@
-const a = 1;
+let a = 1;
 const b = 2;
 const c = 3;
 const d = 4;
@@ -8,3 +8,6 @@ const g = 7;
 const h = 8;
 const i = 9;
 const j = 10;
+
+console.log(a + b + c + d + e + f + g + h + i + j);     // 55
+document.write(a + b + c + d + e + f + g + h + i + j);     // 55
