@@ -17,4 +17,6 @@ const p = 16;
 const q = 17;
 const r = 18;
 const s = 19;
-const t = 20;   
+const t = 20;   const t = 20;  const t = 20;  const t = 20;  const t = 20;  const t = 20;  const t = 20;  
+const t = 20;  const t = 20;  const t = 20;  
+const t = 20;  const t = 20;  const t = 20;  
